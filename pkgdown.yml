@@ -1,0 +1,17 @@
+pandoc: '2.5'
+pkgdown: 1.5.1
+pkgdown_sha: ~
+articles:
+  categorical_inputs: categorical_inputs.html
+  ci_and_num.trees: ci_and_num.trees.html
+  diagnostics: diagnostics.html
+  grf: grf.html
+  llf: llf.html
+  muhats: muhats.html
+  sample_weighting_examples: sample_weighting_examples.html
+  visualize_tree: visualize_tree.html
+last_built: 2021-03-16T16:27Z
+urls:
+  reference: https://github.com/grf-labs/grf/reference
+  article: https://github.com/grf-labs/grf/articles
+
